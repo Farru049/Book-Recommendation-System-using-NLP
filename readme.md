@@ -1,4 +1,3 @@
-Here’s the complete `README.md` markdown file, including references to your `books.csv` and `requirements.txt`:
 
 ```markdown
 # 📚 Book Recommendation System
